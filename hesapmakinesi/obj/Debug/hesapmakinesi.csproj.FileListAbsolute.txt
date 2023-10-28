@@ -1,0 +1,11 @@
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Muharrem\source\repos\yaptıklarım\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
